@@ -7,7 +7,7 @@ class App extends Component {
     return (
      <div style={{display:'flex'}}>
     <Plinko/>
-    <div style={{backgroundColor:'blue',height:'100%',width:'40%'}}>{'This is settings'}</div>
+    <div style={{backgroundColor:'green',height:'100%',width:'40%'}}>{'This is settings'}</div>
      </div>
     );
   }
